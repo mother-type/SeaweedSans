@@ -1,25 +1,25 @@
 ---
-unified_font_repository_version: "0.3"
-unified_font_repository_url: https://github.com/raphaelbastide/Unified-Font-Repository/
-typeface_family:
+unified-font-repository-version: "0.3"
+unified-font-repository-url: https://github.com/raphaelbastide/Unified-Font-Repository/
+typeface-family:
   name: Seaweed Sans
   description: Click clack on your typewriter underwater at the crab cafe with Seaweed.
   tags:
   - pixel
   - monospace
-  repository_url: https://github.com/mother-type/SeaweedSans
-  project_url: https://mother-type.de/fonts/seaweed-sans
+  repository-url: https://github.com/mother-type/SeaweedSans
+  project-url: https://mother-type.de/fonts/seaweed-sans
   tools:
   - Glyphs
   designer: 
   - name: printer_scanner
   - url: https://printerscanner.net
-  writing_systems: 
+  writing-systems: 
   - Latin
   published: 
   - 2023
   license: 
   - SIL Open Font License, Version 1.1
-  sample_text:
+  sample-text:
   - en_us: the flow of roads
 ...
